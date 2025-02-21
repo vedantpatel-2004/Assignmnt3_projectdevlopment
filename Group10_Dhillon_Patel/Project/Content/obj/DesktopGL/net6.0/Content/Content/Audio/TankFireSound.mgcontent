@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/TankFireSound.wav</SourceFile>
+  <SourceTime>2024-11-25T23:43:26.300712-05:00</SourceTime>
+  <DestFile>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/bin/DesktopGL/Content/Content/Audio/TankFireSound.xnb</DestFile>
+  <DestTime>2024-12-08T22:13:17.5403007-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

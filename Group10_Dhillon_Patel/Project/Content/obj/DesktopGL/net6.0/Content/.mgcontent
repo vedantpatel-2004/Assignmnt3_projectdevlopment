@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/BulletFireSound.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/EngineRunning.mp3</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/GameOverBackground.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/MainBackgorundMusic.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/MenuBackgroundSound.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/TankFireSound.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Audio/WallExplosion.wav</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/BodyFont.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/BodyFont2.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/GameFont.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/HelpPageFont.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/MainMenuFont.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/MainMenuFont2.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/MainMenuFont3.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Fonts/TitleFont.spritefont</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/AboutPage2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/AboutPageBackground.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/aKey.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Background.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Bullet.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Coder1.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Coder2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/CornerWall.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/CornerWall2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/downArrow.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/enterKey.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/escKey.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion1.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion3.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion4.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion5.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion6.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/explosion7.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/HealthBar.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Highway.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Highway2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/hKey.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/InfoPageBackground.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/leftArrow.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/MainMenuBackground.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/mKey.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/PowerUp.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/rightArrow.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/spaceBar.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Tank1.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Tank2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion1.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion2.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion3.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion4.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion5.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion6.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion7.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion8.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/TankExplosion9.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/upArrow.png</File>
+    <File>D:/Computer Programming/Fall2024/PROG2370-GamePROG/PROG2370 Final Project Spec/Group10_Dhillon_Patel/Project/Content/Content/Photos/Wall1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

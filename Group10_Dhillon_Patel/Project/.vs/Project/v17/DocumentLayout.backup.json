@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|d:\\computer programming\\fall2024\\prog2370-gameprog\\prog2370 final project spec\\group10_dhillon_patel\\project\\entity\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|solutionrelative:entity\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|d:\\computer programming\\fall2024\\prog2370-gameprog\\prog2370 final project spec\\group10_dhillon_patel\\project\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|d:\\computer programming\\fall2024\\prog2370-gameprog\\prog2370 final project spec\\group10_dhillon_patel\\project\\entity\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|solutionrelative:entity\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|d:\\computer programming\\fall2024\\prog2370-gameprog\\prog2370 final project spec\\group10_dhillon_patel\\project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6617D202-1159-4FA4-B395-5A71DD67D2B0}|Project.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Entity\\Wall.cs",
+              "RelativeDocumentMoniker": "Entity\\Wall.cs",
+              "ToolTip": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Entity\\Wall.cs",
+              "RelativeToolTip": "Entity\\Wall.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:29:33.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Entity\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Entity\\PowerUp.cs",
+              "ToolTip": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Entity\\PowerUp.cs",
+              "RelativeToolTip": "Entity\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:15:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:16:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "D:\\Computer Programming\\Fall2024\\PROG2370-GamePROG\\PROG2370 Final Project Spec\\Group10_Dhillon_Patel\\Project\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAANIDAAAAAAAAAAAuwNYDAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:31:28.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
